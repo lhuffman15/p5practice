@@ -31,7 +31,7 @@ var canHeight = 900;
 function preload() {
 	heading = loadFont('BebasNeueBold.ttf');
 	boldItal = loadFont('Lato-SemiboldItalic.ttf');
-	light = loadFont('Lato-light.ttf');
+	light = loadFont('Lato-Light.ttf');
 }
 
 function setup() {
