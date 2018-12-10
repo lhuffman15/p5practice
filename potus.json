@@ -1,0 +1,40 @@
+{
+  "tweets": [{
+      "tweet_id": 797128959578271700,
+      "in_reply_to_status_id": "",
+      "in_reply_to_user_id": "",
+      "timestamp": "2016-11-11 17:28:48 +0000",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "text": "Today, we honor those who honored our country with its highest form of service. We owe our veterans our thanks, our respect and our freedom.",
+      "retweeted_status_id": "",
+      "retweeted_status_user_id": "",
+      "retweeted_status_timestamp": "",
+      "expanded_urls": ""
+    },
+    {
+      "tweet_id": 796018814072672300,
+      "in_reply_to_status_id": "",
+      "in_reply_to_user_id": "",
+      "timestamp": "2016-11-08 15:57:29 +0000",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "text": "Today, progress is on the ballot. Go vote - then make sure your friends, your family, and everyone you know votes too.",
+      "retweeted_status_id": "",
+      "retweeted_status_user_id": "",
+      "retweeted_status_timestamp": "",
+      "expanded_urls": ""
+    },
+    {
+      "tweet_id": 794322003754790900,
+      "in_reply_to_status_id": "",
+      "in_reply_to_user_id": "",
+      "timestamp": "2016-11-03 23:34:58 +0000",
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+      "text": "It's pretty simple: Find a plan, get covered, earn some peace of mind. Start today: https://t.co/PJ7xIKP3Vo https://t.co/ZBQdNz8s80",
+      "retweeted_status_id": "",
+      "retweeted_status_user_id": "",
+      "retweeted_status_timestamp": "",
+      "expanded_urls": "http://HealthCare.gov,http://twitter.com/POTUS/status/794322003754790913/photo/1"
+    }
+
+  ]
+}

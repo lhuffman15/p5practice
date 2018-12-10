@@ -1,0 +1,2202 @@
+[
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "430,000",
+      "occupTitle": "Office & Admin",
+      "year": 2009,
+      "numEmployed": 130050,
+      "meanWage": 42392,
+      "empChange": "0",
+      "empChangePerc": "0"
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "410,000",
+      "occupTitle": "Sales",
+      "year": 2009,
+      "numEmployed": 91520,
+      "meanWage": 52118,
+      "empChange": "0",
+      "empChangePerc": "0"
+   },
+   {
+      "﻿category": "Computer/Science/Engineering",
+      "occupCode": "150,000",
+      "occupTitle": "Computer & Math",
+      "year": 2009,
+      "numEmployed": 81280,
+      "meanWage": 104441,
+      "empChange": "0",
+      "empChangePerc": "0"
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "110,000",
+      "occupTitle": "Management Occupations",
+      "year": 2009,
+      "numEmployed": 72240,
+      "meanWage": 139301,
+      "empChange": "0",
+      "empChangePerc": "0"
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "350,000",
+      "occupTitle": "Food Prep & Serving",
+      "year": 2009,
+      "numEmployed": 64520,
+      "meanWage": 22200,
+      "empChange": "0",
+      "empChangePerc": "0"
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "510,000",
+      "occupTitle": "Production Occupations",
+      "year": 2009,
+      "numEmployed": 59310,
+      "meanWage": 36607,
+      "empChange": "0",
+      "empChangePerc": "0"
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "130,000",
+      "occupTitle": "Business & Financial",
+      "year": 2009,
+      "numEmployed": 54390,
+      "meanWage": 82837,
+      "empChange": "0",
+      "empChangePerc": "0"
+   },
+   {
+      "﻿category": "Computer/Science/Engineering",
+      "occupCode": "170,000",
+      "occupTitle": "Architecture & Engineering",
+      "year": 2009,
+      "numEmployed": 53490,
+      "meanWage": 100899,
+      "empChange": "0",
+      "empChangePerc": "0"
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "250,000",
+      "occupTitle": "Education, Training & Library",
+      "year": 2009,
+      "numEmployed": 49960,
+      "meanWage": 59751,
+      "empChange": "0",
+      "empChangePerc": "0"
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "470,000",
+      "occupTitle": "Construction",
+      "year": 2009,
+      "numEmployed": 39430,
+      "meanWage": 55791,
+      "empChange": "0",
+      "empChangePerc": "0"
+   },
+   {
+      "﻿category": "Healthcare",
+      "occupCode": "290,000",
+      "occupTitle": "Practioners & Technical",
+      "year": 2009,
+      "numEmployed": 36260,
+      "meanWage": 96142,
+      "empChange": "0",
+      "empChangePerc": "0"
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "530,000",
+      "occupTitle": "Transportation & Moving",
+      "year": 2009,
+      "numEmployed": 36190,
+      "meanWage": 33691,
+      "empChange": "0",
+      "empChangePerc": "0"
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "490,000",
+      "occupTitle": "Installation & Repair",
+      "year": 2009,
+      "numEmployed": 27530,
+      "meanWage": 51584,
+      "empChange": "0",
+      "empChangePerc": "0"
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "370,000",
+      "occupTitle": "Building & Ground Maintenance",
+      "year": 2009,
+      "numEmployed": 26440,
+      "meanWage": 27630,
+      "empChange": "0",
+      "empChangePerc": "0"
+   },
+   {
+      "﻿category": "Healthcare",
+      "occupCode": "310,000",
+      "occupTitle": "Healthcare Support",
+      "year": 2009,
+      "numEmployed": 18650,
+      "meanWage": 35188,
+      "empChange": "0",
+      "empChangePerc": "0"
+   },
+   {
+      "﻿category": "Healthcare",
+      "occupCode": "390,000",
+      "occupTitle": "Personal Care",
+      "year": 2009,
+      "numEmployed": 16960,
+      "meanWage": 29019,
+      "empChange": "0",
+      "empChangePerc": "0"
+   },
+   {
+      "﻿category": "Computer/Science/Engineering",
+      "occupCode": "190,000",
+      "occupTitle": "Life, Physical, Social Science",
+      "year": 2009,
+      "numEmployed": 16720,
+      "meanWage": 89190,
+      "empChange": "0",
+      "empChangePerc": "0"
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "330,000",
+      "occupTitle": "Protective Services",
+      "year": 2009,
+      "numEmployed": 15130,
+      "meanWage": 49538,
+      "empChange": "0",
+      "empChangePerc": "0"
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "270,000",
+      "occupTitle": "Arts, Design, Entertainment, Sports, Media",
+      "year": 2009,
+      "numEmployed": 13940,
+      "meanWage": 70314,
+      "empChange": "0",
+      "empChangePerc": "0"
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "210,000",
+      "occupTitle": "Community & Social Service",
+      "year": 2009,
+      "numEmployed": 9680,
+      "meanWage": 54848,
+      "empChange": "0",
+      "empChangePerc": "0"
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "230,000",
+      "occupTitle": "Legal Occupations",
+      "year": 2009,
+      "numEmployed": 7230,
+      "meanWage": 132151,
+      "empChange": "0",
+      "empChangePerc": "0"
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "450,000",
+      "occupTitle": "Farming, Fishery & Forestry",
+      "year": 2009,
+      "numEmployed": 2780,
+      "meanWage": 21479,
+      "empChange": "0",
+      "empChangePerc": "0"
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "430,000",
+      "occupTitle": "Office & Admin",
+      "year": 2010,
+      "numEmployed": 123940,
+      "meanWage": 43255,
+      "empChange": -5,
+      "empChangePerc": -4.7
+   },
+   {
+      "﻿category": "Computer/Science/Engineering",
+      "occupCode": "150,000",
+      "occupTitle": "Computer & Math",
+      "year": 2010,
+      "numEmployed": 82970,
+      "meanWage": 110110,
+      "empChange": 2,
+      "empChangePerc": 2.1
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "410,000",
+      "occupTitle": "Sales",
+      "year": 2010,
+      "numEmployed": 81180,
+      "meanWage": 50696,
+      "empChange": -11,
+      "empChangePerc": -11.3
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "110,000",
+      "occupTitle": "Management Occupations",
+      "year": 2010,
+      "numEmployed": 72400,
+      "meanWage": 144407,
+      "empChange": "0",
+      "empChangePerc": 0.2
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "350,000",
+      "occupTitle": "Food Prep & Serving",
+      "year": 2010,
+      "numEmployed": 63530,
+      "meanWage": 22462,
+      "empChange": -2,
+      "empChangePerc": -1.5
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "510,000",
+      "occupTitle": "Production Occupations",
+      "year": 2010,
+      "numEmployed": 54020,
+      "meanWage": 37720,
+      "empChange": -9,
+      "empChangePerc": -8.9
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "130,000",
+      "occupTitle": "Business & Financial",
+      "year": 2010,
+      "numEmployed": 51930,
+      "meanWage": 86285,
+      "empChange": -5,
+      "empChangePerc": -4.5
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "250,000",
+      "occupTitle": "Education, Training & Library",
+      "year": 2010,
+      "numEmployed": 50960,
+      "meanWage": 59423,
+      "empChange": 2,
+      "empChangePerc": 2
+   },
+   {
+      "﻿category": "Computer/Science/Engineering",
+      "occupCode": "170,000",
+      "occupTitle": "Architecture & Engineering",
+      "year": 2010,
+      "numEmployed": 50760,
+      "meanWage": 100189,
+      "empChange": -5,
+      "empChangePerc": -5.1
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "530,000",
+      "occupTitle": "Transportation & Moving",
+      "year": 2010,
+      "numEmployed": 36120,
+      "meanWage": 34790,
+      "empChange": "0",
+      "empChangePerc": -0.2
+   },
+   {
+      "﻿category": "Healthcare",
+      "occupCode": "290,000",
+      "occupTitle": "Practioners & Technical",
+      "year": 2010,
+      "numEmployed": 35200,
+      "meanWage": 101949,
+      "empChange": -3,
+      "empChangePerc": -2.9
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "470,000",
+      "occupTitle": "Construction",
+      "year": 2010,
+      "numEmployed": 32290,
+      "meanWage": 58188,
+      "empChange": -18,
+      "empChangePerc": -18.1
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "370,000",
+      "occupTitle": "Building & Ground Maintenance",
+      "year": 2010,
+      "numEmployed": 26840,
+      "meanWage": 28743,
+      "empChange": 2,
+      "empChangePerc": 1.5
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "490,000",
+      "occupTitle": "Installation & Repair",
+      "year": 2010,
+      "numEmployed": 26340,
+      "meanWage": 53657,
+      "empChange": -4,
+      "empChangePerc": -4.3
+   },
+   {
+      "﻿category": "Healthcare",
+      "occupCode": "310,000",
+      "occupTitle": "Healthcare Support",
+      "year": 2010,
+      "numEmployed": 18670,
+      "meanWage": 34434,
+      "empChange": "0",
+      "empChangePerc": 0.1
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "330,000",
+      "occupTitle": "Protective Services",
+      "year": 2010,
+      "numEmployed": 17980,
+      "meanWage": 58787,
+      "empChange": 19,
+      "empChangePerc": 18.8
+   },
+   {
+      "﻿category": "Healthcare",
+      "occupCode": "390,000",
+      "occupTitle": "Personal Care",
+      "year": 2010,
+      "numEmployed": 17670,
+      "meanWage": 28417,
+      "empChange": 4,
+      "empChangePerc": 4.2
+   },
+   {
+      "﻿category": "Computer/Science/Engineering",
+      "occupCode": "190,000",
+      "occupTitle": "Life, Physical, Social Science",
+      "year": 2010,
+      "numEmployed": 16820,
+      "meanWage": 91099,
+      "empChange": 1,
+      "empChangePerc": 0.6
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "270,000",
+      "occupTitle": "Arts, Design, Entertainment, Sports, Media",
+      "year": 2010,
+      "numEmployed": 14330,
+      "meanWage": 68054,
+      "empChange": 3,
+      "empChangePerc": 2.8
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "210,000",
+      "occupTitle": "Community & Social Service",
+      "year": 2010,
+      "numEmployed": 7090,
+      "meanWage": 53251,
+      "empChange": -27,
+      "empChangePerc": -26.8
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "230,000",
+      "occupTitle": "Legal Occupations",
+      "year": 2010,
+      "numEmployed": 6630,
+      "meanWage": 145365,
+      "empChange": -8,
+      "empChangePerc": -8.3
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "450,000",
+      "occupTitle": "Farming, Fishery & Forestry",
+      "year": 2010,
+      "numEmployed": 1290,
+      "meanWage": 23234,
+      "empChange": -54,
+      "empChangePerc": -53.6
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "430,000",
+      "occupTitle": "Office & Admin",
+      "year": 2011,
+      "numEmployed": 118590,
+      "meanWage": 44341,
+      "empChange": -9,
+      "empChangePerc": -8.8
+   },
+   {
+      "﻿category": "Computer/Science/Engineering",
+      "occupCode": "150,000",
+      "occupTitle": "Computer & Math",
+      "year": 2011,
+      "numEmployed": 84460,
+      "meanWage": 110829,
+      "empChange": 4,
+      "empChangePerc": 3.9
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "410,000",
+      "occupTitle": "Sales",
+      "year": 2011,
+      "numEmployed": 78430,
+      "meanWage": 48926,
+      "empChange": -14,
+      "empChangePerc": -14.3
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "110,000",
+      "occupTitle": "Management Occupations",
+      "year": 2011,
+      "numEmployed": 67730,
+      "meanWage": 147524,
+      "empChange": -6,
+      "empChangePerc": -6.2
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "350,000",
+      "occupTitle": "Food Prep & Serving",
+      "year": 2011,
+      "numEmployed": 62260,
+      "meanWage": 22984,
+      "empChange": -4,
+      "empChangePerc": -3.5
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "130,000",
+      "occupTitle": "Business & Financial",
+      "year": 2011,
+      "numEmployed": 54340,
+      "meanWage": 89207,
+      "empChange": "0",
+      "empChangePerc": -0.1
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "510,000",
+      "occupTitle": "Production Occupations",
+      "year": 2011,
+      "numEmployed": 49430,
+      "meanWage": 38687,
+      "empChange": -17,
+      "empChangePerc": -16.7
+   },
+   {
+      "﻿category": "Computer/Science/Engineering",
+      "occupCode": "170,000",
+      "occupTitle": "Architecture & Engineering",
+      "year": 2011,
+      "numEmployed": 49090,
+      "meanWage": 102176,
+      "empChange": -8,
+      "empChangePerc": -8.2
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "250,000",
+      "occupTitle": "Education, Training & Library",
+      "year": 2011,
+      "numEmployed": 49050,
+      "meanWage": 58306,
+      "empChange": -2,
+      "empChangePerc": -1.8
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "530,000",
+      "occupTitle": "Transportation & Moving",
+      "year": 2011,
+      "numEmployed": 35840,
+      "meanWage": 35500,
+      "empChange": -1,
+      "empChangePerc": -1
+   },
+   {
+      "﻿category": "Healthcare",
+      "occupCode": "290,000",
+      "occupTitle": "Practioners & Technical",
+      "year": 2011,
+      "numEmployed": 35420,
+      "meanWage": 108103,
+      "empChange": -2,
+      "empChangePerc": -2.3
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "470,000",
+      "occupTitle": "Construction",
+      "year": 2011,
+      "numEmployed": 26990,
+      "meanWage": 60201,
+      "empChange": -32,
+      "empChangePerc": -31.5
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "370,000",
+      "occupTitle": "Building & Ground Maintenance",
+      "year": 2011,
+      "numEmployed": 25420,
+      "meanWage": 29582,
+      "empChange": -4,
+      "empChangePerc": -3.9
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "490,000",
+      "occupTitle": "Installation & Repair",
+      "year": 2011,
+      "numEmployed": 25380,
+      "meanWage": 53818,
+      "empChange": -8,
+      "empChangePerc": -7.8
+   },
+   {
+      "﻿category": "Healthcare",
+      "occupCode": "310,000",
+      "occupTitle": "Healthcare Support",
+      "year": 2011,
+      "numEmployed": 18500,
+      "meanWage": 34512,
+      "empChange": -1,
+      "empChangePerc": -0.8
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "330,000",
+      "occupTitle": "Protective Services",
+      "year": 2011,
+      "numEmployed": 17230,
+      "meanWage": 60638,
+      "empChange": 14,
+      "empChangePerc": 13.9
+   },
+   {
+      "﻿category": "Healthcare",
+      "occupCode": "390,000",
+      "occupTitle": "Personal Care",
+      "year": 2011,
+      "numEmployed": 16930,
+      "meanWage": 28710,
+      "empChange": "0",
+      "empChangePerc": -0.2
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "270,000",
+      "occupTitle": "Arts, Design, Entertainment, Sports, Media",
+      "year": 2011,
+      "numEmployed": 12640,
+      "meanWage": 66847,
+      "empChange": -9,
+      "empChangePerc": -9.3
+   },
+   {
+      "﻿category": "Computer/Science/Engineering",
+      "occupCode": "190,000",
+      "occupTitle": "Life, Physical, Social Science",
+      "year": 2011,
+      "numEmployed": 11870,
+      "meanWage": 87589,
+      "empChange": -29,
+      "empChangePerc": -29
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "210,000",
+      "occupTitle": "Community & Social Service",
+      "year": 2011,
+      "numEmployed": 8000,
+      "meanWage": 46595,
+      "empChange": -17,
+      "empChangePerc": -36.70886076
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "230,000",
+      "occupTitle": "Legal Occupations",
+      "year": 2011,
+      "numEmployed": 7190,
+      "meanWage": 141184,
+      "empChange": -1,
+      "empChangePerc": -0.6
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "450,000",
+      "occupTitle": "Farming, Fishery & Forestry",
+      "year": 2011,
+      "numEmployed": 1200,
+      "meanWage": 22960,
+      "empChange": -57,
+      "empChangePerc": -56.8
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "430,000",
+      "occupTitle": "Office & Admin",
+      "year": 2012,
+      "numEmployed": 120410,
+      "meanWage": 45067,
+      "empChange": -7,
+      "empChangePerc": -7.4
+   },
+   {
+      "﻿category": "Computer/Science/Engineering",
+      "occupCode": "150,000",
+      "occupTitle": "Computer & Math",
+      "year": 2012,
+      "numEmployed": 91870,
+      "meanWage": 112222,
+      "empChange": 13,
+      "empChangePerc": 13
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "410,000",
+      "occupTitle": "Sales",
+      "year": 2012,
+      "numEmployed": 80570,
+      "meanWage": 53594,
+      "empChange": -12,
+      "empChangePerc": -12
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "110,000",
+      "occupTitle": "Management Occupations",
+      "year": 2012,
+      "numEmployed": 70770,
+      "meanWage": 151299,
+      "empChange": -2,
+      "empChangePerc": -2
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "350,000",
+      "occupTitle": "Food Prep & Serving",
+      "year": 2012,
+      "numEmployed": 64520,
+      "meanWage": 23204,
+      "empChange": "0",
+      "empChangePerc": "0"
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "130,000",
+      "occupTitle": "Business & Financial",
+      "year": 2012,
+      "numEmployed": 56090,
+      "meanWage": 91282,
+      "empChange": 3,
+      "empChangePerc": 3.1
+   },
+   {
+      "﻿category": "Computer/Science/Engineering",
+      "occupCode": "170,000",
+      "occupTitle": "Architecture & Engineering",
+      "year": 2012,
+      "numEmployed": 51080,
+      "meanWage": 104280,
+      "empChange": -5,
+      "empChangePerc": -4.5
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "250,000",
+      "occupTitle": "Education, Training & Library",
+      "year": 2012,
+      "numEmployed": 48490,
+      "meanWage": 59722,
+      "empChange": -3,
+      "empChangePerc": -2.9
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "510,000",
+      "occupTitle": "Production Occupations",
+      "year": 2012,
+      "numEmployed": 46950,
+      "meanWage": 40112,
+      "empChange": -21,
+      "empChangePerc": -20.8
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "530,000",
+      "occupTitle": "Transportation & Moving",
+      "year": 2012,
+      "numEmployed": 37650,
+      "meanWage": 35103,
+      "empChange": 4,
+      "empChangePerc": 4
+   },
+   {
+      "﻿category": "Healthcare",
+      "occupCode": "290,000",
+      "occupTitle": "Practioners & Technical",
+      "year": 2012,
+      "numEmployed": 34720,
+      "meanWage": 107734,
+      "empChange": -4,
+      "empChangePerc": -4.2
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "370,000",
+      "occupTitle": "Building & Ground Maintenance",
+      "year": 2012,
+      "numEmployed": 26380,
+      "meanWage": 29801,
+      "empChange": "0",
+      "empChangePerc": -0.2
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "470,000",
+      "occupTitle": "Construction",
+      "year": 2012,
+      "numEmployed": 26060,
+      "meanWage": 60533,
+      "empChange": -34,
+      "empChangePerc": -33.9
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "490,000",
+      "occupTitle": "Installation & Repair",
+      "year": 2012,
+      "numEmployed": 24010,
+      "meanWage": 54238,
+      "empChange": -13,
+      "empChangePerc": -12.8
+   },
+   {
+      "﻿category": "Healthcare",
+      "occupCode": "310,000",
+      "occupTitle": "Healthcare Support",
+      "year": 2012,
+      "numEmployed": 18940,
+      "meanWage": 34824,
+      "empChange": 2,
+      "empChangePerc": 1.6
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "330,000",
+      "occupTitle": "Protective Services",
+      "year": 2012,
+      "numEmployed": 17320,
+      "meanWage": 62723,
+      "empChange": 14,
+      "empChangePerc": 14.5
+   },
+   {
+      "﻿category": "Healthcare",
+      "occupCode": "390,000",
+      "occupTitle": "Personal Care",
+      "year": 2012,
+      "numEmployed": 17020,
+      "meanWage": 28615,
+      "empChange": "0",
+      "empChangePerc": 0.4
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "270,000",
+      "occupTitle": "Arts, Design, Entertainment, Sports, Media",
+      "year": 2012,
+      "numEmployed": 13280,
+      "meanWage": 67957,
+      "empChange": -5,
+      "empChangePerc": -4.7
+   },
+   {
+      "﻿category": "Computer/Science/Engineering",
+      "occupCode": "190,000",
+      "occupTitle": "Life, Physical, Social Science",
+      "year": 2012,
+      "numEmployed": 12190,
+      "meanWage": 92645,
+      "empChange": -27,
+      "empChangePerc": -27.1
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "210,000",
+      "occupTitle": "Community & Social Service",
+      "year": 2012,
+      "numEmployed": 9750,
+      "meanWage": 48660,
+      "empChange": 1,
+      "empChangePerc": 0.7
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "230,000",
+      "occupTitle": "Legal Occupations",
+      "year": 2012,
+      "numEmployed": 7040,
+      "meanWage": 149521,
+      "empChange": -3,
+      "empChangePerc": -2.6
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "450,000",
+      "occupTitle": "Farming, Fishery & Forestry",
+      "year": 2012,
+      "numEmployed": 1280,
+      "meanWage": 23247,
+      "empChange": -54,
+      "empChangePerc": -54
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "430,000",
+      "occupTitle": "Office & Admin",
+      "year": 2013,
+      "numEmployed": 119670,
+      "meanWage": 44932,
+      "empChange": -8,
+      "empChangePerc": -8
+   },
+   {
+      "﻿category": "Computer/Science/Engineering",
+      "occupCode": "150,000",
+      "occupTitle": "Computer & Math",
+      "year": 2013,
+      "numEmployed": 93900,
+      "meanWage": 110090,
+      "empChange": 16,
+      "empChangePerc": 15.5
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "410,000",
+      "occupTitle": "Sales",
+      "year": 2013,
+      "numEmployed": 84970,
+      "meanWage": 54296,
+      "empChange": -7,
+      "empChangePerc": -7.2
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "110,000",
+      "occupTitle": "Management Occupations",
+      "year": 2013,
+      "numEmployed": 71290,
+      "meanWage": 152925,
+      "empChange": -1,
+      "empChangePerc": -1.3
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "350,000",
+      "occupTitle": "Food Prep & Serving",
+      "year": 2013,
+      "numEmployed": 69530,
+      "meanWage": 23795,
+      "empChange": 8,
+      "empChangePerc": 7.8
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "130,000",
+      "occupTitle": "Business & Financial",
+      "year": 2013,
+      "numEmployed": 59180,
+      "meanWage": 89631,
+      "empChange": 9,
+      "empChangePerc": 8.8
+   },
+   {
+      "﻿category": "Computer/Science/Engineering",
+      "occupCode": "170,000",
+      "occupTitle": "Architecture & Engineering",
+      "year": 2013,
+      "numEmployed": 51850,
+      "meanWage": 106955,
+      "empChange": -3,
+      "empChangePerc": -3.1
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "250,000",
+      "occupTitle": "Education, Training & Library",
+      "year": 2013,
+      "numEmployed": 51270,
+      "meanWage": 59719,
+      "empChange": 3,
+      "empChangePerc": 2.6
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "510,000",
+      "occupTitle": "Production Occupations",
+      "year": 2013,
+      "numEmployed": 49350,
+      "meanWage": 39711,
+      "empChange": -17,
+      "empChangePerc": -16.8
+   },
+   {
+      "﻿category": "Healthcare",
+      "occupCode": "290,000",
+      "occupTitle": "Practioners & Technical",
+      "year": 2013,
+      "numEmployed": 36380,
+      "meanWage": 107784,
+      "empChange": "0",
+      "empChangePerc": 0.3
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "530,000",
+      "occupTitle": "Transportation & Moving",
+      "year": 2013,
+      "numEmployed": 35980,
+      "meanWage": 36039,
+      "empChange": -1,
+      "empChangePerc": -0.6
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "370,000",
+      "occupTitle": "Building & Ground Maintenance",
+      "year": 2013,
+      "numEmployed": 25820,
+      "meanWage": 29612,
+      "empChange": -2,
+      "empChangePerc": -2.3
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "470,000",
+      "occupTitle": "Construction",
+      "year": 2013,
+      "numEmployed": 25760,
+      "meanWage": 60858,
+      "empChange": -35,
+      "empChangePerc": -34.7
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "490,000",
+      "occupTitle": "Installation & Repair",
+      "year": 2013,
+      "numEmployed": 25080,
+      "meanWage": 53476,
+      "empChange": -9,
+      "empChangePerc": -8.9
+   },
+   {
+      "﻿category": "Healthcare",
+      "occupCode": "390,000",
+      "occupTitle": "Personal Care",
+      "year": 2013,
+      "numEmployed": 18080,
+      "meanWage": 28552,
+      "empChange": 7,
+      "empChangePerc": 6.6
+   },
+   {
+      "﻿category": "Healthcare",
+      "occupCode": "310,000",
+      "occupTitle": "Healthcare Support",
+      "year": 2013,
+      "numEmployed": 17590,
+      "meanWage": 36000,
+      "empChange": -6,
+      "empChangePerc": -5.7
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "330,000",
+      "occupTitle": "Protective Services",
+      "year": 2013,
+      "numEmployed": 15110,
+      "meanWage": 55000,
+      "empChange": "0",
+      "empChangePerc": -0.1
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "270,000",
+      "occupTitle": "Arts, Design, Entertainment, Sports, Media",
+      "year": 2013,
+      "numEmployed": 13200,
+      "meanWage": 66263,
+      "empChange": -5,
+      "empChangePerc": -5.3
+   },
+   {
+      "﻿category": "Computer/Science/Engineering",
+      "occupCode": "190,000",
+      "occupTitle": "Life, Physical, Social Science",
+      "year": 2013,
+      "numEmployed": 12450,
+      "meanWage": 88932,
+      "empChange": -26,
+      "empChangePerc": -25.5
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "210,000",
+      "occupTitle": "Community & Social Service",
+      "year": 2013,
+      "numEmployed": 11870,
+      "meanWage": 54428,
+      "empChange": 23,
+      "empChangePerc": 22.6
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "230,000",
+      "occupTitle": "Legal Occupations",
+      "year": 2013,
+      "numEmployed": 8130,
+      "meanWage": 132264,
+      "empChange": 12,
+      "empChangePerc": 12.4
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "450,000",
+      "occupTitle": "Farming, Fishery & Forestry",
+      "year": 2013,
+      "numEmployed": 2140,
+      "meanWage": 21673,
+      "empChange": -23,
+      "empChangePerc": -23
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "430,000",
+      "occupTitle": "Office & Admin",
+      "year": 2014,
+      "numEmployed": 122400,
+      "meanWage": 45414,
+      "empChange": -6,
+      "empChangePerc": -5.9
+   },
+   {
+      "﻿category": "Computer/Science/Engineering",
+      "occupCode": "150,000",
+      "occupTitle": "Computer & Math",
+      "year": 2014,
+      "numEmployed": 97430,
+      "meanWage": 117227,
+      "empChange": 20,
+      "empChangePerc": 19.9
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "410,000",
+      "occupTitle": "Sales",
+      "year": 2014,
+      "numEmployed": 88160,
+      "meanWage": 54182,
+      "empChange": -4,
+      "empChangePerc": -3.7
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "110,000",
+      "occupTitle": "Management Occupations",
+      "year": 2014,
+      "numEmployed": 76960,
+      "meanWage": 157147,
+      "empChange": 7,
+      "empChangePerc": 6.5
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "350,000",
+      "occupTitle": "Food Prep & Serving",
+      "year": 2014,
+      "numEmployed": 73240,
+      "meanWage": 23861,
+      "empChange": 14,
+      "empChangePerc": 13.5
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "130,000",
+      "occupTitle": "Business & Financial",
+      "year": 2014,
+      "numEmployed": 64230,
+      "meanWage": 91243,
+      "empChange": 18,
+      "empChangePerc": 18.1
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "250,000",
+      "occupTitle": "Education, Training & Library",
+      "year": 2014,
+      "numEmployed": 53390,
+      "meanWage": 58305,
+      "empChange": 7,
+      "empChangePerc": 6.9
+   },
+   {
+      "﻿category": "Computer/Science/Engineering",
+      "occupCode": "170,000",
+      "occupTitle": "Architecture & Engineering",
+      "year": 2014,
+      "numEmployed": 52920,
+      "meanWage": 109326,
+      "empChange": -1,
+      "empChangePerc": -1.1
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "510,000",
+      "occupTitle": "Production Occupations",
+      "year": 2014,
+      "numEmployed": 51070,
+      "meanWage": 40099,
+      "empChange": -14,
+      "empChangePerc": -13.9
+   },
+   {
+      "﻿category": "Healthcare",
+      "occupCode": "290,000",
+      "occupTitle": "Practioners & Technical",
+      "year": 2014,
+      "numEmployed": 38430,
+      "meanWage": 108395,
+      "empChange": 6,
+      "empChangePerc": 6
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "530,000",
+      "occupTitle": "Transportation & Moving",
+      "year": 2014,
+      "numEmployed": 37100,
+      "meanWage": 35640,
+      "empChange": 3,
+      "empChangePerc": 2.5
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "370,000",
+      "occupTitle": "Building & Ground Maintenance",
+      "year": 2014,
+      "numEmployed": 27510,
+      "meanWage": 29998,
+      "empChange": 4,
+      "empChangePerc": 4
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "470,000",
+      "occupTitle": "Construction",
+      "year": 2014,
+      "numEmployed": 27190,
+      "meanWage": 59340,
+      "empChange": -31,
+      "empChangePerc": -31
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "490,000",
+      "occupTitle": "Installation & Repair",
+      "year": 2014,
+      "numEmployed": 24270,
+      "meanWage": 54737,
+      "empChange": -12,
+      "empChangePerc": -11.8
+   },
+   {
+      "﻿category": "Healthcare",
+      "occupCode": "390,000",
+      "occupTitle": "Personal Care",
+      "year": 2014,
+      "numEmployed": 19700,
+      "meanWage": 28970,
+      "empChange": 16,
+      "empChangePerc": 16.2
+   },
+   {
+      "﻿category": "Healthcare",
+      "occupCode": "310,000",
+      "occupTitle": "Healthcare Support",
+      "year": 2014,
+      "numEmployed": 17150,
+      "meanWage": 37001,
+      "empChange": -8,
+      "empChangePerc": -8
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "330,000",
+      "occupTitle": "Protective Services",
+      "year": 2014,
+      "numEmployed": 15470,
+      "meanWage": 53668,
+      "empChange": 2,
+      "empChangePerc": 2.2
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "270,000",
+      "occupTitle": "Arts, Design, Entertainment, Sports, Media",
+      "year": 2014,
+      "numEmployed": 12600,
+      "meanWage": 67471,
+      "empChange": -10,
+      "empChangePerc": -9.6
+   },
+   {
+      "﻿category": "Computer/Science/Engineering",
+      "occupCode": "190,000",
+      "occupTitle": "Life, Physical, Social Science",
+      "year": 2014,
+      "numEmployed": 10610,
+      "meanWage": 93341,
+      "empChange": -37,
+      "empChangePerc": -36.5
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "210,000",
+      "occupTitle": "Community & Social Service",
+      "year": 2014,
+      "numEmployed": 9290,
+      "meanWage": 58932,
+      "empChange": -4,
+      "empChangePerc": -4
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "230,000",
+      "occupTitle": "Legal Occupations",
+      "year": 2014,
+      "numEmployed": 8750,
+      "meanWage": 138848,
+      "empChange": 21,
+      "empChangePerc": 21
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "450,000",
+      "occupTitle": "Farming, Fishery & Forestry",
+      "year": 2014,
+      "numEmployed": 2210,
+      "meanWage": 25561,
+      "empChange": -21,
+      "empChangePerc": -20.5
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "430,000",
+      "occupTitle": "Office & Admin",
+      "year": 2015,
+      "numEmployed": 124840,
+      "meanWage": 48082,
+      "empChange": -4,
+      "empChangePerc": -4
+   },
+   {
+      "﻿category": "Computer/Science/Engineering",
+      "occupCode": "150,000",
+      "occupTitle": "Computer & Math",
+      "year": 2015,
+      "numEmployed": 113340,
+      "meanWage": 125641,
+      "empChange": 39,
+      "empChangePerc": 39.4
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "410,000",
+      "occupTitle": "Sales",
+      "year": 2015,
+      "numEmployed": 88220,
+      "meanWage": 55545,
+      "empChange": -4,
+      "empChangePerc": -3.6
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "110,000",
+      "occupTitle": "Management Occupations",
+      "year": 2015,
+      "numEmployed": 83140,
+      "meanWage": 162316,
+      "empChange": 15,
+      "empChangePerc": 15.1
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "350,000",
+      "occupTitle": "Food Prep & Serving",
+      "year": 2015,
+      "numEmployed": 76170,
+      "meanWage": 25311,
+      "empChange": 18,
+      "empChangePerc": 18.1
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "130,000",
+      "occupTitle": "Business & Financial",
+      "year": 2015,
+      "numEmployed": 69100,
+      "meanWage": 96357,
+      "empChange": 27,
+      "empChangePerc": 27
+   },
+   {
+      "﻿category": "Computer/Science/Engineering",
+      "occupCode": "170,000",
+      "occupTitle": "Architecture & Engineering",
+      "year": 2015,
+      "numEmployed": 55720,
+      "meanWage": 113423,
+      "empChange": 4,
+      "empChangePerc": 4.2
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "250,000",
+      "occupTitle": "Education, Training & Library",
+      "year": 2015,
+      "numEmployed": 54040,
+      "meanWage": 63089,
+      "empChange": 8,
+      "empChangePerc": 8.2
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "510,000",
+      "occupTitle": "Production Occupations",
+      "year": 2015,
+      "numEmployed": 50890,
+      "meanWage": 40795,
+      "empChange": -14,
+      "empChangePerc": -14.2
+   },
+   {
+      "﻿category": "Healthcare",
+      "occupCode": "290,000",
+      "occupTitle": "Practioners & Technical",
+      "year": 2015,
+      "numEmployed": 40260,
+      "meanWage": 111800,
+      "empChange": 11,
+      "empChangePerc": 11
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "530,000",
+      "occupTitle": "Transportation & Moving",
+      "year": 2015,
+      "numEmployed": 34760,
+      "meanWage": 37312,
+      "empChange": -4,
+      "empChangePerc": -4
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "470,000",
+      "occupTitle": "Construction",
+      "year": 2015,
+      "numEmployed": 30220,
+      "meanWage": 61978,
+      "empChange": -23,
+      "empChangePerc": -23.4
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "370,000",
+      "occupTitle": "Building & Ground Maintenance",
+      "year": 2015,
+      "numEmployed": 27410,
+      "meanWage": 31943,
+      "empChange": 4,
+      "empChangePerc": 3.7
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "490,000",
+      "occupTitle": "Installation & Repair",
+      "year": 2015,
+      "numEmployed": 23590,
+      "meanWage": 55887,
+      "empChange": -14,
+      "empChangePerc": -14.3
+   },
+   {
+      "﻿category": "Healthcare",
+      "occupCode": "390,000",
+      "occupTitle": "Personal Care",
+      "year": 2015,
+      "numEmployed": 21400,
+      "meanWage": 29143,
+      "empChange": 26,
+      "empChangePerc": 26.2
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "330,000",
+      "occupTitle": "Protective Services",
+      "year": 2015,
+      "numEmployed": 17210,
+      "meanWage": 51879,
+      "empChange": 14,
+      "empChangePerc": 13.7
+   },
+   {
+      "﻿category": "Healthcare",
+      "occupCode": "310,000",
+      "occupTitle": "Healthcare Support",
+      "year": 2015,
+      "numEmployed": 16850,
+      "meanWage": 40077,
+      "empChange": -10,
+      "empChangePerc": -9.7
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "270,000",
+      "occupTitle": "Arts, Design, Entertainment, Sports, Media",
+      "year": 2015,
+      "numEmployed": 12960,
+      "meanWage": 71931,
+      "empChange": -7,
+      "empChangePerc": -7
+   },
+   {
+      "﻿category": "Computer/Science/Engineering",
+      "occupCode": "190,000",
+      "occupTitle": "Life, Physical, Social Science",
+      "year": 2015,
+      "numEmployed": 11050,
+      "meanWage": 85985,
+      "empChange": -34,
+      "empChangePerc": -33.9
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "210,000",
+      "occupTitle": "Community & Social Service",
+      "year": 2015,
+      "numEmployed": 10300,
+      "meanWage": 59196,
+      "empChange": 6,
+      "empChangePerc": 6.4
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "230,000",
+      "occupTitle": "Legal Occupations",
+      "year": 2015,
+      "numEmployed": 9600,
+      "meanWage": 144014,
+      "empChange": 33,
+      "empChangePerc": 32.8
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "450,000",
+      "occupTitle": "Farming, Fishery & Forestry",
+      "year": 2015,
+      "numEmployed": 2410,
+      "meanWage": 24210,
+      "empChange": -13,
+      "empChangePerc": -13.3
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "430,000",
+      "occupTitle": "Office & Admin",
+      "year": 2016,
+      "numEmployed": 129940,
+      "meanWage": 49121,
+      "empChange": "0",
+      "empChangePerc": -0.1
+   },
+   {
+      "﻿category": "Computer/Science/Engineering",
+      "occupCode": "150,000",
+      "occupTitle": "Computer & Math",
+      "year": 2016,
+      "numEmployed": 126360,
+      "meanWage": 130717,
+      "empChange": 55,
+      "empChangePerc": 55.5
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "410,000",
+      "occupTitle": "Sales",
+      "year": 2016,
+      "numEmployed": 88110,
+      "meanWage": 55112,
+      "empChange": -4,
+      "empChangePerc": -3.7
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "110,000",
+      "occupTitle": "Management Occupations",
+      "year": 2016,
+      "numEmployed": 86310,
+      "meanWage": 167921,
+      "empChange": 19,
+      "empChangePerc": 19.5
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "350,000",
+      "occupTitle": "Food Prep & Serving",
+      "year": 2016,
+      "numEmployed": 76570,
+      "meanWage": 26931,
+      "empChange": 19,
+      "empChangePerc": 18.7
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "130,000",
+      "occupTitle": "Business & Financial",
+      "year": 2016,
+      "numEmployed": 71600,
+      "meanWage": 103819,
+      "empChange": 32,
+      "empChangePerc": 31.6
+   },
+   {
+      "﻿category": "Computer/Science/Engineering",
+      "occupCode": "170,000",
+      "occupTitle": "Architecture & Engineering",
+      "year": 2016,
+      "numEmployed": 57390,
+      "meanWage": 116372,
+      "empChange": 7,
+      "empChangePerc": 7.3
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "250,000",
+      "occupTitle": "Education, Training & Library",
+      "year": 2016,
+      "numEmployed": 54070,
+      "meanWage": 65039,
+      "empChange": 8,
+      "empChangePerc": 8.2
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "510,000",
+      "occupTitle": "Production Occupations",
+      "year": 2016,
+      "numEmployed": 52330,
+      "meanWage": 41504,
+      "empChange": -12,
+      "empChangePerc": -11.8
+   },
+   {
+      "﻿category": "Healthcare",
+      "occupCode": "290,000",
+      "occupTitle": "Practioners & Technical",
+      "year": 2016,
+      "numEmployed": 39580,
+      "meanWage": 115003,
+      "empChange": 9,
+      "empChangePerc": 9.2
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "530,000",
+      "occupTitle": "Transportation & Moving",
+      "year": 2016,
+      "numEmployed": 37740,
+      "meanWage": 36695,
+      "empChange": 4,
+      "empChangePerc": 4.3
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "470,000",
+      "occupTitle": "Construction",
+      "year": 2016,
+      "numEmployed": 33540,
+      "meanWage": 63128,
+      "empChange": -15,
+      "empChangePerc": -14.9
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "370,000",
+      "occupTitle": "Building & Ground Maintenance",
+      "year": 2016,
+      "numEmployed": 27360,
+      "meanWage": 31979,
+      "empChange": 3,
+      "empChangePerc": 3.5
+   },
+   {
+      "﻿category": "Healthcare",
+      "occupCode": "390,000",
+      "occupTitle": "Personal Care",
+      "year": 2016,
+      "numEmployed": 25190,
+      "meanWage": 30062,
+      "empChange": 49,
+      "empChangePerc": 48.5
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "490,000",
+      "occupTitle": "Installation & Repair",
+      "year": 2016,
+      "numEmployed": 23950,
+      "meanWage": 56898,
+      "empChange": -13,
+      "empChangePerc": -13
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "330,000",
+      "occupTitle": "Protective Services",
+      "year": 2016,
+      "numEmployed": 17730,
+      "meanWage": 59063,
+      "empChange": 17,
+      "empChangePerc": 17.2
+   },
+   {
+      "﻿category": "Healthcare",
+      "occupCode": "310,000",
+      "occupTitle": "Healthcare Support",
+      "year": 2016,
+      "numEmployed": 17090,
+      "meanWage": 41554,
+      "empChange": -8,
+      "empChangePerc": -8.4
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "270,000",
+      "occupTitle": "Arts, Design, Entertainment, Sports, Media",
+      "year": 2016,
+      "numEmployed": 13600,
+      "meanWage": 72597,
+      "empChange": -2,
+      "empChangePerc": -2.4
+   },
+   {
+      "﻿category": "Computer/Science/Engineering",
+      "occupCode": "190,000",
+      "occupTitle": "Life, Physical, Social Science",
+      "year": 2016,
+      "numEmployed": 11090,
+      "meanWage": 89955,
+      "empChange": -34,
+      "empChangePerc": -33.7
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "210,000",
+      "occupTitle": "Community & Social Service",
+      "year": 2016,
+      "numEmployed": 10730,
+      "meanWage": 54945,
+      "empChange": 11,
+      "empChangePerc": 10.8
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "230,000",
+      "occupTitle": "Legal Occupations",
+      "year": 2016,
+      "numEmployed": 9040,
+      "meanWage": 155603,
+      "empChange": 25,
+      "empChangePerc": 25
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "450,000",
+      "occupTitle": "Farming, Fishery & Forestry",
+      "year": 2016,
+      "numEmployed": 2510,
+      "meanWage": 26792,
+      "empChange": -10,
+      "empChangePerc": -9.7
+   },
+   {
+      "﻿category": "Computer/Science/Engineering",
+      "occupCode": "150,000",
+      "occupTitle": "Computer & Math",
+      "year": 2017,
+      "numEmployed": 130550,
+      "meanWage": 125162,
+      "empChange": 61,
+      "empChangePerc": 60.6
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "430,000",
+      "occupTitle": "Office & Admin",
+      "year": 2017,
+      "numEmployed": 130540,
+      "meanWage": 50095,
+      "empChange": "0",
+      "empChangePerc": 0.4
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "410,000",
+      "occupTitle": "Sales",
+      "year": 2017,
+      "numEmployed": 96390,
+      "meanWage": 56440,
+      "empChange": 5,
+      "empChangePerc": 5.3
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "110,000",
+      "occupTitle": "Management Occupations",
+      "year": 2017,
+      "numEmployed": 85040,
+      "meanWage": 169992,
+      "empChange": 18,
+      "empChangePerc": 17.7
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "350,000",
+      "occupTitle": "Food Prep & Serving",
+      "year": 2017,
+      "numEmployed": 77990,
+      "meanWage": 29818,
+      "empChange": 21,
+      "empChangePerc": 20.9
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "130,000",
+      "occupTitle": "Business & Financial",
+      "year": 2017,
+      "numEmployed": 75890,
+      "meanWage": 103522,
+      "empChange": 40,
+      "empChangePerc": 39.5
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "250,000",
+      "occupTitle": "Education, Training & Library",
+      "year": 2017,
+      "numEmployed": 58110,
+      "meanWage": 67310,
+      "empChange": 16,
+      "empChangePerc": 16.3
+   },
+   {
+      "﻿category": "Computer/Science/Engineering",
+      "occupCode": "170,000",
+      "occupTitle": "Architecture & Engineering",
+      "year": 2017,
+      "numEmployed": 56740,
+      "meanWage": 116464,
+      "empChange": 6,
+      "empChangePerc": 6.1
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "510,000",
+      "occupTitle": "Production Occupations",
+      "year": 2017,
+      "numEmployed": 52300,
+      "meanWage": 43269,
+      "empChange": -12,
+      "empChangePerc": -11.8
+   },
+   {
+      "﻿category": "Healthcare",
+      "occupCode": "290,000",
+      "occupTitle": "Practioners & Technical",
+      "year": 2017,
+      "numEmployed": 42390,
+      "meanWage": 114945,
+      "empChange": 17,
+      "empChangePerc": 16.9
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "530,000",
+      "occupTitle": "Transportation & Moving",
+      "year": 2017,
+      "numEmployed": 38680,
+      "meanWage": 39269,
+      "empChange": 7,
+      "empChangePerc": 6.9
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "470,000",
+      "occupTitle": "Construction",
+      "year": 2017,
+      "numEmployed": 36450,
+      "meanWage": 65285,
+      "empChange": -8,
+      "empChangePerc": -7.6
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "370,000",
+      "occupTitle": "Building & Ground Maintenance",
+      "year": 2017,
+      "numEmployed": 27920,
+      "meanWage": 34112,
+      "empChange": 6,
+      "empChangePerc": 5.6
+   },
+   {
+      "﻿category": "Healthcare",
+      "occupCode": "390,000",
+      "occupTitle": "Personal Care",
+      "year": 2017,
+      "numEmployed": 26990,
+      "meanWage": 31575,
+      "empChange": 59,
+      "empChangePerc": 59.1
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "490,000",
+      "occupTitle": "Installation & Repair",
+      "year": 2017,
+      "numEmployed": 26700,
+      "meanWage": 58066,
+      "empChange": -3,
+      "empChangePerc": -3
+   },
+   {
+      "﻿category": "Healthcare",
+      "occupCode": "310,000",
+      "occupTitle": "Healthcare Support",
+      "year": 2017,
+      "numEmployed": 17440,
+      "meanWage": 43438,
+      "empChange": -6,
+      "empChangePerc": -6.5
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "330,000",
+      "occupTitle": "Protective Services",
+      "year": 2017,
+      "numEmployed": 17260,
+      "meanWage": 62790,
+      "empChange": 14,
+      "empChangePerc": 14.1
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "270,000",
+      "occupTitle": "Arts, Design, Entertainment, Sports, Media",
+      "year": 2017,
+      "numEmployed": 14640,
+      "meanWage": 72231,
+      "empChange": 5,
+      "empChangePerc": 5
+   },
+   {
+      "﻿category": "Computer/Science/Engineering",
+      "occupCode": "190,000",
+      "occupTitle": "Life, Physical, Social Science",
+      "year": 2017,
+      "numEmployed": 11800,
+      "meanWage": 92201,
+      "empChange": -29,
+      "empChangePerc": -29.4
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "210,000",
+      "occupTitle": "Community & Social Service",
+      "year": 2017,
+      "numEmployed": 10570,
+      "meanWage": 57538,
+      "empChange": 9,
+      "empChangePerc": 9.2
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "230,000",
+      "occupTitle": "Legal Occupations",
+      "year": 2017,
+      "numEmployed": 7790,
+      "meanWage": 159085,
+      "empChange": 8,
+      "empChangePerc": 7.7
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "450,000",
+      "occupTitle": "Farming, Fishery & Forestry",
+      "year": 2017,
+      "numEmployed": 3240,
+      "meanWage": 25223,
+      "empChange": 17,
+      "empChangePerc": 16.5
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "430,000",
+      "occupTitle": "Office & Admin",
+      "year": 2018,
+      "numEmployed": 135970,
+      "meanWage": 49184,
+      "empChange": 5,
+      "empChangePerc": 4.6
+   },
+   {
+      "﻿category": "Computer/Science/Engineering",
+      "occupCode": "150,000",
+      "occupTitle": "Computer & Math",
+      "year": 2018,
+      "numEmployed": 132140,
+      "meanWage": 124801,
+      "empChange": 63,
+      "empChangePerc": 62.6
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "410,000",
+      "occupTitle": "Sales",
+      "year": 2018,
+      "numEmployed": 99190,
+      "meanWage": 57117,
+      "empChange": 8,
+      "empChangePerc": 8.4
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "110,000",
+      "occupTitle": "Management Occupations",
+      "year": 2018,
+      "numEmployed": 84760,
+      "meanWage": 166747,
+      "empChange": 17,
+      "empChangePerc": 17.3
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "350,000",
+      "occupTitle": "Food Prep & Serving",
+      "year": 2018,
+      "numEmployed": 82000,
+      "meanWage": 30581,
+      "empChange": 27,
+      "empChangePerc": 27.1
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "130,000",
+      "occupTitle": "Business & Financial",
+      "year": 2018,
+      "numEmployed": 79880,
+      "meanWage": 102377,
+      "empChange": 47,
+      "empChangePerc": 46.9
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "250,000",
+      "occupTitle": "Education, Training & Library",
+      "year": 2018,
+      "numEmployed": 58720,
+      "meanWage": 63782,
+      "empChange": 18,
+      "empChangePerc": 17.5
+   },
+   {
+      "﻿category": "Computer/Science/Engineering",
+      "occupCode": "170,000",
+      "occupTitle": "Architecture & Engineering",
+      "year": 2018,
+      "numEmployed": 52570,
+      "meanWage": 116606,
+      "empChange": -2,
+      "empChangePerc": -1.7
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "510,000",
+      "occupTitle": "Production Occupations",
+      "year": 2018,
+      "numEmployed": 51130,
+      "meanWage": 44739,
+      "empChange": -14,
+      "empChangePerc": -13.8
+   },
+   {
+      "﻿category": "Healthcare",
+      "occupCode": "290,000",
+      "occupTitle": "Practioners & Technical",
+      "year": 2018,
+      "numEmployed": 45450,
+      "meanWage": 117063,
+      "empChange": 25,
+      "empChangePerc": 25.3
+   },
+   {
+      "﻿category": "Healthcare",
+      "occupCode": "390,000",
+      "occupTitle": "Personal Care",
+      "year": 2018,
+      "numEmployed": 44630,
+      "meanWage": 30910,
+      "empChange": 163,
+      "empChangePerc": 163.1
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "530,000",
+      "occupTitle": "Transportation & Moving",
+      "year": 2018,
+      "numEmployed": 39000,
+      "meanWage": 40162,
+      "empChange": 8,
+      "empChangePerc": 7.8
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "470,000",
+      "occupTitle": "Construction",
+      "year": 2018,
+      "numEmployed": 35370,
+      "meanWage": 67158,
+      "empChange": -10,
+      "empChangePerc": -10.3
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "490,000",
+      "occupTitle": "Installation & Repair",
+      "year": 2018,
+      "numEmployed": 29260,
+      "meanWage": 59794,
+      "empChange": 6,
+      "empChangePerc": 6.3
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "370,000",
+      "occupTitle": "Building & Ground Maintenance",
+      "year": 2018,
+      "numEmployed": 28830,
+      "meanWage": 35323,
+      "empChange": 9,
+      "empChangePerc": 9
+   },
+   {
+      "﻿category": "Healthcare",
+      "occupCode": "310,000",
+      "occupTitle": "Healthcare Support",
+      "year": 2018,
+      "numEmployed": 18210,
+      "meanWage": 44652,
+      "empChange": -2,
+      "empChangePerc": -2.4
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "330,000",
+      "occupTitle": "Protective Services",
+      "year": 2018,
+      "numEmployed": 17500,
+      "meanWage": 65934,
+      "empChange": 16,
+      "empChangePerc": 15.7
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "270,000",
+      "occupTitle": "Arts, Design, Entertainment, Sports, Media",
+      "year": 2018,
+      "numEmployed": 15990,
+      "meanWage": 74180,
+      "empChange": 15,
+      "empChangePerc": 14.7
+   },
+   {
+      "﻿category": "Community",
+      "occupCode": "210,000",
+      "occupTitle": "Community & Social Service",
+      "year": 2018,
+      "numEmployed": 12050,
+      "meanWage": 57638,
+      "empChange": 24,
+      "empChangePerc": 24.5
+   },
+   {
+      "﻿category": "Computer/Science/Engineering",
+      "occupCode": "190,000",
+      "occupTitle": "Life, Physical, Social Science",
+      "year": 2018,
+      "numEmployed": 11400,
+      "meanWage": 95373,
+      "empChange": -32,
+      "empChangePerc": -31.8
+   },
+   {
+      "﻿category": "Business & Professional Services",
+      "occupCode": "230,000",
+      "occupTitle": "Legal Occupations",
+      "year": 2018,
+      "numEmployed": 8010,
+      "meanWage": 163013,
+      "empChange": 11,
+      "empChangePerc": 10.8
+   },
+   {
+      "﻿category": "Logistical/Industrial",
+      "occupCode": "450,000",
+      "occupTitle": "Farming, Fishery & Forestry",
+      "year": 2018,
+      "numEmployed": 2470,
+      "meanWage": 26698,
+      "empChange": -11,
+      "empChangePerc": -11.2
+   }
+]
